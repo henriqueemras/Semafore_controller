@@ -1,6 +1,6 @@
 #include "lcd.h"
 #include "main.h"
-
+//teste de edição
 void udelay(void) {
 	int tempo = 7;
 	while (tempo--)
